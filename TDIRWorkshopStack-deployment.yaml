@@ -1,0 +1,4 @@
+template-file-path: TDIRWorkshopStack-auto.yml
+parameters:
+  ParamDate: 2023/12/17
+tags: {}
